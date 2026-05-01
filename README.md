@@ -8,7 +8,7 @@
 <br/>
 
 <!-- OPENING ANIMATION - plays once on load -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=300&color=FF6A00&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=90&lines=%3E+ACCESSING+PROFILE+%2F%2F+NODE%3A+HarshPatil30...;%3E+AUTHENTICATION+PASSED+%2F%2F+CLEARANCE%3A+FULL...;%3E+WELCOME.+INITIALIZING+INTERFACE..." alt="Boot Sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=300&color=FF6A00&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=90&lines=%3E+ACCESSING+PROFILE+%2F%2F+NODE%3A+bhoomideshpande...;%3E+AUTHENTICATION+PASSED+%2F%2F+CLEARANCE%3A+FULL...;%3E+WELCOME.+INITIALIZING+INTERFACE..." alt="Boot Sequence" />
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 ```
 ╔════════════════════════════════════════╗
-║        > PROCESS: HARSH.EXE           ║
+║        > PROCESS: Bhoomi.EXE           ║
 ╠════════════════════════════════════════╣
 ║                                        ║
 ║  [IDENTITY]                            ║
@@ -70,7 +70,7 @@
 
 ```python
 #!/usr/bin/env python3
-# ── harsh_patil.py ──────────────────────
+# ── bbhoomi_deshpande.py ──────────────────────
 
 from engineer import CSStudent, Builder
 
@@ -89,7 +89,7 @@ class BhoomiDeshpande(CSStudent, Builder):
         return "Code is the tool."
 
 if __name__ == "__main__":
-    dev = HarshPatil()
+    dev = BhoomiDeshpande()
     print(f"[{dev.status.upper()}]")
     # → [ONLINE · BUILDING]
 ```
