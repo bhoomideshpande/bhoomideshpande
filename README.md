@@ -1,9 +1,9 @@
-<!-- HARSH PATIL - GITHUB PROFILE -->
+<!-- Bhoomi Deshpande - GITHUB PROFILE -->
 
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a00,100:0d1117&height=160&section=header&text=HARSH%20PATIL&fontSize=65&fontColor=ff6a00&animation=fadeIn&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=15&descAlignY=78&descColor=ff9a3c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a00,100:0d1117&height=160&section=header&text=Bhoomi%20Deshpande&fontSize=65&fontColor=ff6a00&animation=fadeIn&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=15&descAlignY=78&descColor=ff9a3c" width="100%"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Initializing+Harsh.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Initializing+Bhoomi.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -48,7 +48,7 @@
 ╠════════════════════════════════════════╣
 ║                                        ║
 ║  [IDENTITY]                            ║
-║   NAME   ::  Harsh Patil              ║
+║   NAME   ::  Bhoomi Deshpande         ║
 ║   HANDLE ::  @bhoomideshpande         ║
 ║   NODE   ::  Hubballi, KA, IN         ║
 ║   INST   ::  KLE Tech University      ║
@@ -74,7 +74,7 @@
 
 from engineer import CSStudent, Builder
 
-class HarshPatil(CSStudent, Builder):
+class BhoomiDeshpande(CSStudent, Builder):
 
     STACK  = ["Python", "JS", "C++", "Java"]
     DOMAIN = ["ML", "NLP", "FullStack", "EdTech"]
