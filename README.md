@@ -18,9 +18,9 @@
 <br/><br/>
 
 <!-- STATUS BADGES -->
-[![GitHub](https://img.shields.io/badge/GITHUB-HarshPatil30-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
+[![GitHub](https://img.shields.io/badge/GITHUB-bhoomideshpande-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/bhoomideshpande)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-ff6a00?style=for-the-badge&labelColor=0d1117)
-![Profile Views](https://komarev.com/ghpvc/?username=HarshPatil30&style=for-the-badge&color=ff6a00&label=PROFILE+VIEWS&base=100)
+![Profile Views](https://komarev.com/ghpvc/?username=bhoomideshpande&style=for-the-badge&color=ff6a00&label=PROFILE+VIEWS&base=100)
 
 <br/><br/>
 
@@ -49,7 +49,7 @@
 ║                                        ║
 ║  [IDENTITY]                            ║
 ║   NAME   ::  Harsh Patil              ║
-║   HANDLE ::  @HarshPatil30            ║
+║   HANDLE ::  @bhoomideshpande         ║
 ║   NODE   ::  Hubballi, KA, IN         ║
 ║   INST   ::  KLE Tech University      ║
 ║                                        ║
@@ -113,10 +113,10 @@ if __name__ == "__main__":
 
 | PROJECT | STACK | DESCRIPTION |
 |:-------:|:-----:|:------------|
-| [**EcoGame**](https://github.com/HarshPatil30/EcoGame) | `JavaScript` | Mini-games teaching kids environmental habits — recycling, energy saving, waste reduction |
-| [**ML Text Summarizer**](https://github.com/HarshPatil30/ML-project) | `Python` `LSTM` `NLP` | Context-aware text summarization using Seq2Seq LSTM networks |
-| [**Library Management**](https://github.com/HarshPatil30/library-management-system) | `HTML` `JS` | Book records, member & transaction management system |
-| [**NGO Volunteer App**](https://github.com/Sanjana-Chinnannavar/ngo-app) | `React` `Tailwind` | Full-stack NGO volunteer & event management platform |
+| [**EcoGame**](https://github.com/bhoomideshpande/EcoGame) | `JavaScript` | Mini-games teaching kids environmental habits — recycling, energy saving, waste reduction |
+| [**ML Text Summarizer**](https://github.com/bhoomideshpande/ML-project) | `Python` `LSTM` `NLP` | Context-aware text summarization using Seq2Seq LSTM networks |
+| [**Library Management**](https://github.com/bhoomideshpande/library-management-system) | `HTML` `JS` | Book records, member & transaction management system |
+| [**NGO Volunteer App**](https://github.com/bhoomideshpande/ngo-app) | `React` `Tailwind` | Full-stack NGO volunteer & event management platform |
 
 <br/><br/>
 
@@ -183,17 +183,17 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhoomideshpande&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ffffff" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomideshpande&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPatil30&hide_border=true&background=0d1117&ring=ff6a00&fire=ff9a3c&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=ffffff&stroke=ff6a00" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomideshpande&hide_border=true&background=0d1117&ring=ff6a00&fire=ff9a3c&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=ffffff&stroke=ff6a00" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshPatil30&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ff9a3c&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomideshpande&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ff9a3c&area=true&hide_border=true" width="100%"/>
 
 <br/><br/>
 
@@ -207,7 +207,7 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-![Snake animation](https://raw.githubusercontent.com/HarshPatil30/HarshPatil30/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/bhoomideshpande/bhoomideshpande/output/github-contribution-grid-snake-dark.svg)
 
 <br/><br/>
 
@@ -222,7 +222,7 @@ if __name__ == "__main__":
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff6a00?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/bhoomideshpande)
 [![Email](https://img.shields.io/badge/EMAIL-PING_ME-ff6a00?style=for-the-badge&logo=gmail&logoColor=ff6a00&labelColor=0d1117)](mailto:YOUR_EMAIL)
 
 <br/><br/>
